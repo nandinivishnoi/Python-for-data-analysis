@@ -22,3 +22,5 @@ print(b)
 b.sort()
 print(b)
 #and many more!
+b=tuple(b)
+print(type(b))
